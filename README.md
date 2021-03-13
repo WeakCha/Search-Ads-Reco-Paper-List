@@ -16,7 +16,15 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 
 ## General
 ### 基础知识 Prerequisites
-- 
+- https://speech.ee.ntu.edu.tw/~hylee/index.html
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift][15]
+- [Layer Normalization][16]
+- [Deep Residual Learning for Image Recognition (Resnet)][17]
+- [ReZero is All You Need: Fast Convergence at Large Depth][18]
+- [Neural Machine Translation by Jointly Learning to Align and Translate][19]
+- [Attention Is All You Need][20]
+- [Focal Loss for Dense Object Detection][21]
+- [word2vec Parameter Learning Explained][22]
 ### 特征交叉 Feature Crossing
 - [Factorization Machines][5]
 - [Field-aware Factorization Machines for CTR Prediction][6]
@@ -53,3 +61,11 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 [12]: https://arxiv.org/abs/2008.13535
 [13]: https://arxiv.org/pdf/2011.05625.pdf
 [14]: https://arxiv.org/pdf/1804.07931.pdf
+[15]: https://arxiv.org/abs/1502.03167
+[16]: https://arxiv.org/abs/1607.06450
+[17]: https://arxiv.org/abs/1512.03385
+[18]: https://arxiv.org/abs/2003.04887
+[19]: https://arxiv.org/abs/1409.0473
+[20]: https://arxiv.org/abs/1706.03762
+[21]: https://arxiv.org/abs/1708.02002v2
+[22]: https://arxiv.org/abs/1411.2738
