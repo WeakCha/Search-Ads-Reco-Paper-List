@@ -16,6 +16,6 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 
 ## 广告 Ads
 ### CTR预估 CTR Prediction
-- https://arxiv.org/abs/1706.06978
+- [https://arxiv.org/abs/1706.06978][https://arxiv.org/abs/1706.06978]
 ## 推荐 Reco
 ## 搜索 Search
