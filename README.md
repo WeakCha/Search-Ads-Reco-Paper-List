@@ -1,6 +1,6 @@
 # Search-Ads-Reco-Paper-List
-欢迎阅读这个部分！\\
-Welcome! \\
+欢迎阅读这个部分！<br>
+Welcome! <br>
 这一个部分我们收集了一些与搜索，广告，推荐这三大工业深度学习方向的论文。 \\
 We have collected some papers related to deep learning in Search, Ads and Recommendation Systems in this repository. \\
 这些论文有些是学术界的精华，有些是工业界的明珠，但它们或多或少，都对应工业深度学习的实际的问题的解决方案。
