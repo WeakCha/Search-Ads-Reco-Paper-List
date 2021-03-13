@@ -15,5 +15,7 @@ In the beginning, I have put some really classical and useful papers here.<br><b
 Hope this repository could help you and be updated timely and frequently, lol.<br><br>
 
 ## 广告 Ads
+### CTR预估 CTR Prediction
+- https://arxiv.org/abs/1706.06978
 ## 推荐 Reco
 ## 搜索 Search
