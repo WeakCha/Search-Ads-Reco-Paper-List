@@ -13,3 +13,7 @@ But I, Weakcha, feel really lucky to know some friends who can help review these
 In the beginning, I have put some really classical and useful papers here.<br><br>
 希望它可以一直更新下去，并给大家帮助。<br>
 Hope this repository could help you and be updated timely and frequently, lol.<br><br>
+
+## 广告 Ads
+## 推荐 Reco
+## 搜索 Search
