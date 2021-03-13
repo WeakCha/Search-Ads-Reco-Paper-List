@@ -16,6 +16,8 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 
 ## 广告 Ads
 ### CTR预估 CTR Prediction
-- [Deep Interest Network for Click-Through Rate Prediction][https://arxiv.org/abs/1706.06978]
+- [Deep Interest Network for Click-Through Rate Prediction][1]
 ## 推荐 Reco
 ## 搜索 Search
+
+[1]: https://arxiv.org/abs/1706.06978
