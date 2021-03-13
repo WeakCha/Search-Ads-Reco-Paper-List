@@ -14,10 +14,42 @@ In the beginning, I have put some really classical and useful papers here.<br><b
 希望它可以一直更新下去，并给大家帮助。<br>
 Hope this repository could help you and be updated timely and frequently, lol.<br><br>
 
+## General
+### 基础知识 Prerequisites
+- 
+### 特征交叉 Feature Crossing
+- [Factorization Machines][5]
+- [Field-aware Factorization Machines for CTR Prediction][6]
+- [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction][7]
+- [Neural Factorization Machines for Sparse Predictive Analytics][8]
+- [Wide & Deep Learning for Recommender Systems][9]
+- [Product-based Neural Networks for User Response Prediction][10]
+- [Deep & Cross Network for Ad Click Predictions][11]
+- [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems][12]
+- [CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction][13]
+### 知识蒸馏 Knowledge Distillation
+- [Ensembled CTR Prediction via Knowledge Distillation][4]
 ## 广告 Ads
 ### CTR预估 CTR Prediction
 - [Deep Interest Network for Click-Through Rate Prediction][1]
+- [Deep Interest Evolution Network for Click-Through Rate Prediction][2]
+- [Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction][3]
+### 多任务学习 Multi-task Learning
+- [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate][14]
 ## 推荐 Reco
 ## 搜索 Search
 
 [1]: https://arxiv.org/abs/1706.06978
+[2]: https://arxiv.org/abs/1809.03672
+[3]: https://arxiv.org/abs/2006.05639
+[4]: https://arxiv.org/abs/2011.04106
+[5]: https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf
+[6]: https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf
+[7]: https://www.ijcai.org/Proceedings/2017/0239.pdf
+[8]: https://arxiv.org/pdf/1708.05027.pdf
+[9]: https://arxiv.org/abs/1606.07792
+[10]: https://arxiv.org/abs/1611.00144
+[11]: https://arxiv.org/abs/1708.05123
+[12]: https://arxiv.org/abs/2008.13535
+[13]: https://arxiv.org/pdf/2011.05625.pdf
+[14]: https://arxiv.org/pdf/1804.07931.pdf
