@@ -47,7 +47,7 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 ### 强化学习 Reinforcement Learning
 - 
 ### 持续学习 Continual Learning/Life-long Learning
--
+- [One Person, One Model, One World: Learning Continual User Representation without Forgetting][29]
 ### 因果推断 Causal Inference
 - 
 ## 广告 Ads
@@ -93,3 +93,4 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 [26]: https://arxiv.org/pdf/1907.06558.pdf
 [27]: https://arxiv.org/abs/1803.00259
 [28]: https://arxiv.org/pdf/2005.13258.pdf
+[29]: https://arxiv.org/pdf/2009.13724.pdf
