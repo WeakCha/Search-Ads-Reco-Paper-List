@@ -36,7 +36,10 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 - [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems][12]
 - [CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction][13]
 ### 知识蒸馏 Knowledge Distillation
+- [Distilling the Knowledge in a Neural Network][30]
+- [Privileged Features Distillation at Taobao Recommendations][31]
 - [Ensembled CTR Prediction via Knowledge Distillation][4]
+- 
 ### 元学习 Meta Learning
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks][23]
 - [MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation][24]
@@ -94,3 +97,5 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 [27]: https://arxiv.org/abs/1803.00259
 [28]: https://arxiv.org/pdf/2005.13258.pdf
 [29]: https://arxiv.org/pdf/2009.13724.pdf
+[30]: https://arxiv.org/abs/1503.02531
+[31]: https://arxiv.org/abs/1907.05171
