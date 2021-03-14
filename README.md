@@ -10,7 +10,7 @@ We are sorry to admit that we cannot ensure the high quality of all papers or wi
 不过猹哥我很荣幸的可以认识一群志同道合的朋友，愿意帮我审校这些有趣的论文并贴在这里。<br>
 But I, Weakcha, feel really lucky to know some friends who can help review these interesting papers.<br><br>
 在一开始的时候，我已经放了一些常见深度学习领域的经典的论文。<br>
-In the beginning, I have put some really classical and useful papers here.<br><br>
+In the beginning, I have put some really classical and useful papers in deep learning here.<br><br>
 希望它可以一直更新下去，并给大家帮助。<br>
 Hope this repository could help you and be updated timely and frequently, lol.<br><br>
 
