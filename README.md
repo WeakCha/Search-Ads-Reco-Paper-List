@@ -41,6 +41,9 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks][23]
 - [MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation][24]
 - [ES-MAML: Simple Hessian-Free Meta Learning][25]
+- [How to Retrain Recommender System? A Sequential Meta-Learning Method][28]
+### 负采样问题 Negative Sampling
+- 
 ### 强化学习 Reinforcement Learning
 - 
 ### 持续学习 Continual Learning/Life-long Learning
@@ -55,7 +58,9 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 ### 多任务学习 Multi-task Learning
 - [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate][14]
 ### 实时出价 Real Time Bidding
-
+- [Deep Reinforcement Learning for Sponsored Search Real-time Bidding][27]
+### 样本延迟回传 Sample Delayed Feedback
+- [Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction][26]
 ## 推荐 Reco
 ## 搜索 Search
 ## 其它 Other papers
@@ -85,3 +90,6 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 [23]: https://arxiv.org/pdf/1703.03400.pdf
 [24]: https://dl.acm.org/doi/pdf/10.1145/3292500.3330859
 [25]: https://arxiv.org/pdf/1910.01215.pdf
+[26]: https://arxiv.org/pdf/1907.06558.pdf
+[27]: https://arxiv.org/abs/1803.00259
+[28]: https://arxiv.org/pdf/2005.13258.pdf
