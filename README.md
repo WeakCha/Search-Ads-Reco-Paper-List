@@ -14,7 +14,7 @@ In the beginning, I have put some really classical and useful papers here.<br><b
 希望它可以一直更新下去，并给大家帮助。<br>
 Hope this repository could help you and be updated timely and frequently, lol.<br><br>
 
-## General
+## 通用知识 General
 ### 基础知识 Prerequisites
 - https://speech.ee.ntu.edu.tw/~hylee/index.html
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift][15]
@@ -37,6 +37,12 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 - [CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction][13]
 ### 知识蒸馏 Knowledge Distillation
 - [Ensembled CTR Prediction via Knowledge Distillation][4]
+### 元学习 Meta Learning
+- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks][23]
+- [MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation][24]
+- [ES-MAML: Simple Hessian-Free Meta Learning][25]
+### 强化学习 Reinforcement Learning
+- 
 ## 广告 Ads
 ### CTR预估 CTR Prediction
 - [Deep Interest Network for Click-Through Rate Prediction][1]
@@ -44,9 +50,12 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 - [Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction][3]
 ### 多任务学习 Multi-task Learning
 - [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate][14]
+### 实时出价 Real Time Bidding
+
 ## 推荐 Reco
 ## 搜索 Search
-
+## 其它 Other papers
+## 致谢 Acknowledgements
 [1]: https://arxiv.org/abs/1706.06978
 [2]: https://arxiv.org/abs/1809.03672
 [3]: https://arxiv.org/abs/2006.05639
@@ -69,3 +78,6 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 [20]: https://arxiv.org/abs/1706.03762
 [21]: https://arxiv.org/abs/1708.02002v2
 [22]: https://arxiv.org/abs/1411.2738
+[23]: https://arxiv.org/pdf/1703.03400.pdf
+[24]: https://dl.acm.org/doi/pdf/10.1145/3292500.3330859
+[25]: https://arxiv.org/pdf/1910.01215.pdf
