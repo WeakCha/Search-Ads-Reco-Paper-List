@@ -43,6 +43,10 @@ Hope this repository could help you and be updated timely and frequently, lol.<b
 - [ES-MAML: Simple Hessian-Free Meta Learning][25]
 ### 强化学习 Reinforcement Learning
 - 
+### 持续学习 Continual Learning/Life-long Learning
+-
+### 因果推断 Causal Inference
+- 
 ## 广告 Ads
 ### CTR预估 CTR Prediction
 - [Deep Interest Network for Click-Through Rate Prediction][1]
