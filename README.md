@@ -49,10 +49,12 @@ Hope this repository could help you and we could update it timely and frequently
 - 
 ### 强化学习 Reinforcement Learning
 - 
+### 排序 Ranking
+- 
 ### 持续学习 Continual Learning/Life-long Learning
 - [One Person, One Model, One World: Learning Continual User Representation without Forgetting][29]
 ### 因果推断 Causal Inference
-- 
+- [Causal Inference Course][32]
 ## 广告 Ads
 ### CTR预估 CTR Prediction
 - [Deep Interest Network for Click-Through Rate Prediction][1]
@@ -99,3 +101,4 @@ Hope this repository could help you and we could update it timely and frequently
 [29]: https://arxiv.org/pdf/2009.13724.pdf
 [30]: https://arxiv.org/abs/1503.02531
 [31]: https://arxiv.org/abs/1907.05171
+[32]: https://www.bradyneal.com/causal-inference-course
