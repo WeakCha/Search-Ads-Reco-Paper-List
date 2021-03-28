@@ -55,6 +55,8 @@ Hope this repository could help you and we could update it timely and frequently
 - [One Person, One Model, One World: Learning Continual User Representation without Forgetting][29]
 ### 因果推断 Causal Inference
 - [Causal Inference Course][32]
+- [(陈首臻, KID22) Bias and Debias in Recommender System: A Survey and Future Directions][33]
+- [(陈首臻) Invariant Risk Minimization][34]
 ## 广告 Ads
 ### CTR预估 CTR Prediction
 - [Deep Interest Network for Click-Through Rate Prediction][1]
@@ -102,3 +104,5 @@ Hope this repository could help you and we could update it timely and frequently
 [30]: https://arxiv.org/abs/1503.02531
 [31]: https://arxiv.org/abs/1907.05171
 [32]: https://www.bradyneal.com/causal-inference-course
+[33]: https://arxiv.org/pdf/2010.03240.pdf
+[34]: https://arxiv.org/pdf/1907.02893.pdf
